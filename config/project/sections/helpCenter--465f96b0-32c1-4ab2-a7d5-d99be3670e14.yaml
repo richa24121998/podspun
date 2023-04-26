@@ -1,0 +1,24 @@
+defaultPlacement: end
+enableVersioning: true
+handle: helpCenter
+name: 'Help Center'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  894afd1c-6b97-4b33-8619-8218c9a05d39: # podspun
+    enabledByDefault: true
+    hasUrls: true
+    template: help-center/_entry
+    uriFormat: help-center
+type: single

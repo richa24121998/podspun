@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: f9d182f2-6c0b-4047-9502-01fe9a39d18d # Menu Group
+handle: socialMenu
+instructions: null
+name: 'Social Menu'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_socialmenu}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

@@ -1,0 +1,113 @@
+fieldLayouts:
+  1421b443-f87d-4a74-bdb6-be77c8b63270:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: eb734026-e2ad-4023-b490-f5934d0e89a7
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 7e456582-37cd-46c8-b030-f88e07ce16f2 # Hero Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 6ef37165-7dfb-42fe-aa0f-b5a0a6d08b38
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 3b99fd09-d711-43f6-93c8-42a9009f4801 # Press Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 266757a8-8a7c-4a7b-9f2d-0b0f3a654569
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: b62cbac0-d932-4de6-b164-3d138d2176d8
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: 7042f5f7-f1ad-4e0f-8b6b-756167185b8e # Section Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: fe274adb-13f4-43b9-87fd-3e0b9702de24
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 32dcc9a1-d938-4ee7-9d22-e6931dd15791
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: 2b269fa3-bf1b-47ee-a70e-2b57c47ab009 # Top Podcast Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f4b9c399-b879-411b-be6b-db653a5657de
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: a7ec7afd-de0b-4d43-b4dc-21b23eb6fcc7 # Top Podcast Content
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0b0ca838-57a7-436c-8a9a-05c43f1ed290
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e6062e7c-9d15-4f5d-a179-98cc72674de7
+        userCondition: null
+handle: homePage
+hasTitleField: false
+name: 'Home Page '
+section: db40291e-bfe3-4019-bb74-8332039483a7 # Home Page 
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

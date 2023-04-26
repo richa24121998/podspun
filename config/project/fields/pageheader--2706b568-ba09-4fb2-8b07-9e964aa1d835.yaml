@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: ae7bc72f-3dca-4d37-a929-8f30436e4e19 # About us
+handle: pageheader
+instructions: null
+name: PageHeader
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_pageheader}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

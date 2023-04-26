@@ -1,0 +1,91 @@
+fieldLayouts:
+  8a446ff7-e754-4d4e-afed-cfa2337929d7:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 54eb59f6-373a-452e-b362-1970b3bdd06d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: e859d248-f2a2-422e-9105-9c543f160315 # Title
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4fe12e59-ea21-42a2-a685-06491f2d8fd7
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 744ccb18-8b32-4779-a27d-e98832ca4ecb # Hero Section Content
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 439829a7-2fea-4638-805c-595d6b900e33
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: d8ccbeb2-aa09-42c4-9b1a-4933cb19c978 # Benefit Section Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f226f95a-6ae4-4637-85b0-9a60cebf2da6
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: b0e73a9b-5f88-4b6a-b2af-ea73cb90529e # Benefits
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b74a3a58-1094-410f-89f4-3e29257c60b8
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 3b23c920-eb1d-4fc6-b793-90306092f87b
+        userCondition: null
+handle: getStarted
+hasTitleField: true
+name: 'Get Started'
+section: 4aa2029f-4122-47bd-a20b-2eb8615a1c7f # Get Started
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

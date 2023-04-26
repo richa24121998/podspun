@@ -1,0 +1,14 @@
+columnSuffix: kdxhmhet
+contentColumnType: boolean
+fieldGroup: a446726b-85cb-4499-8f96-fd14c491daf7 # Common
+handle: showtovisitor
+instructions: null
+name: 'Show to Visitor'
+searchable: false
+settings:
+  default: false
+  offLabel: 'No'
+  onLabel: 'Yes'
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

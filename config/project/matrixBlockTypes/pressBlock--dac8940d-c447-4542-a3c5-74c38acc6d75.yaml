@@ -1,0 +1,78 @@
+field: 825fb6c8-c607-494d-9fea-33f319e81380 # Press Content
+fieldLayouts:
+  4b9bf822-1a60-4d46-99dc-4c500942355a:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: e3730288-d030-40a3-a867-8de1a8449e89 # Press Name
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 157cfd68-7d08-4ba5-9905-1dd6d069cf61
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 593fba17-6156-402c-b1b3-7a2fff846ea3 # Press Url
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: e4024d3c-781b-4b1c-8aba-db3c8f7dd2d6
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 8cac3951-d679-47da-b74a-03e4bb1f62a7
+        userCondition: null
+fields:
+  593fba17-6156-402c-b1b3-7a2fff846ea3: # Press Url
+    columnSuffix: ecaqxneo
+    contentColumnType: text
+    fieldGroup: null
+    handle: pressUrl
+    instructions: 'must be a valid url '
+    name: 'Press Url'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  e3730288-d030-40a3-a867-8de1a8449e89: # Press Name
+    columnSuffix: ydzeulzx
+    contentColumnType: text
+    fieldGroup: null
+    handle: pressName
+    instructions: null
+    name: 'Press Name'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: pressBlock
+name: 'Press Block'
+sortOrder: 1

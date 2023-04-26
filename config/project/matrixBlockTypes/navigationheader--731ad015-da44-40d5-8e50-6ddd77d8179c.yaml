@@ -1,0 +1,50 @@
+field: 2706b568-ba09-4fb2-8b07-9e964aa1d835 # PageHeader
+fieldLayouts:
+  db94ae1c-801a-4a5a-9b9e-8a5b9591a1b9:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 89cd74fb-445a-4a70-a73b-415e574e1a77 # NavLinkss
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 788c1a91-f52f-440b-bcf4-7de7500537f7
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: fca9ced3-ea62-4512-abe0-8d1ea912839c
+        userCondition: null
+fields:
+  89cd74fb-445a-4a70-a73b-415e574e1a77: # NavLinkss
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: navlinkss
+    instructions: null
+    name: NavLinkss
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      branchLimit: null
+      localizeRelations: false
+      maintainHierarchy: false
+      maxRelations: null
+      minRelations: null
+      selectionLabel: null
+      showSiteMenu: false
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Entries
+handle: navigationheader
+name: NavigationHeader
+sortOrder: 1

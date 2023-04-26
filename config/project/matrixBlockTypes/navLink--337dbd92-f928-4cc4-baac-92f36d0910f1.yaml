@@ -1,0 +1,82 @@
+field: fda6c258-4531-43f8-8d24-38bb6d756d88 # Navigation Fields
+fieldLayouts:
+  67ae2a41-93ea-4cef-a361-9497d7531090:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: d3b8f27b-7a61-4b34-b31b-1b339b9534b1 # Link Text
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 44170e64-d553-4c16-87c2-2ae2f3483f9c
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 58325a5f-d386-450d-abd6-c35ef4caa4a3 # Link Destination
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 903cb0e6-73a2-4ee2-a9c3-a8585b1ccade
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 8a5cd5aa-6dc5-4f6e-bdb4-dc98c472ff48
+        userCondition: null
+fields:
+  58325a5f-d386-450d-abd6-c35ef4caa4a3: # Link Destination
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: linkDestination
+    instructions: null
+    name: 'Link Destination'
+    searchable: true
+    settings:
+      allowSelfRelations: false
+      branchLimit: null
+      localizeRelations: false
+      maintainHierarchy: false
+      maxRelations: 1
+      minRelations: null
+      selectionLabel: 'Add Link destination'
+      showSiteMenu: true
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Entries
+  d3b8f27b-7a61-4b34-b31b-1b339b9534b1: # Link Text
+    columnSuffix: ypevxwej
+    contentColumnType: text
+    fieldGroup: null
+    handle: linkText
+    instructions: null
+    name: 'Link Text'
+    searchable: true
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: navLink
+name: 'Nav Link'
+sortOrder: 1

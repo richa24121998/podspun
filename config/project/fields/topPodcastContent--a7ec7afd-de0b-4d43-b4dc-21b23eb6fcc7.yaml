@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 2da62d4d-189f-4ab0-be13-f8549e4f5a35 # Page Data
+handle: topPodcastContent
+instructions: null
+name: 'Top Podcast Content'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_toppodcastcontent}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

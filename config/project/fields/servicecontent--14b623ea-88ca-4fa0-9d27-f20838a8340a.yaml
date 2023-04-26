@@ -1,0 +1,27 @@
+columnSuffix: lmgfjkcj
+contentColumnType: text
+fieldGroup: ae7bc72f-3dca-4d37-a929-8f30436e4e19 # About us
+handle: servicecontent
+instructions: null
+name: serviceContent
+searchable: false
+settings:
+  availableTransforms: '*'
+  availableVolumes: '*'
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  manualConfig: ''
+  purifierConfig: null
+  purifyHtml: true
+  redactorConfig: null
+  removeEmptyTags: false
+  removeInlineStyles: false
+  removeNbsp: false
+  showHtmlButtonForNonAdmins: false
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field

@@ -1,0 +1,19 @@
+columnSuffix: dopigaic
+contentColumnType: text
+fieldGroup: f9d182f2-6c0b-4047-9502-01fe9a39d18d # Menu Group
+handle: copyRightText
+instructions: null
+name: 'Copy right text'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,19 @@
+columnSuffix: eaizduxs
+contentColumnType: text
+fieldGroup: a1e5754f-6540-44cf-82f7-44347a582f29 # Logo
+handle: logoTitle
+instructions: null
+name: 'Logo Title '
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

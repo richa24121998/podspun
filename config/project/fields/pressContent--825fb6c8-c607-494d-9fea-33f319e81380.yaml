@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 2da62d4d-189f-4ab0-be13-f8549e4f5a35 # Page Data
+handle: pressContent
+instructions: null
+name: 'Press Content'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_presscontent}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

@@ -1,0 +1,122 @@
+field: ccc08331-4bc8-462c-b58d-882376a5bcd9 # FAQ Data
+fieldLayouts:
+  6f762549-46fe-444f-b688-fe1908b0acc5:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 3dd69867-1ce0-46fd-8140-bbc86d9aa214 # question
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 727082fd-bfc8-43d1-bcc5-fbf85b5567c8
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1a49bbd8-7af8-4c61-8ca7-478b516bf0f4 # answer
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 235ebbcb-5fab-44ba-9587-02f59105a127
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 1f299e4c-11e4-460f-8928-970071e2c564
+        userCondition: null
+fields:
+  1a49bbd8-7af8-4c61-8ca7-478b516bf0f4: # answer
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: answer
+    instructions: null
+    name: answer
+    searchable: false
+    settings:
+      errorMessage: 'Unable to find component class ''craft\redactor\Field''.'
+      expectedType: craft\redactor\Field
+      settings:
+        __assoc__:
+          -
+            - uiMode
+            - enlarged
+          -
+            - redactorConfig
+            - ''
+          -
+            - removeInlineStyles
+            - 1
+          -
+            - removeEmptyTags
+            - 1
+          -
+            - removeNbsp
+            - 1
+          -
+            - availableVolumes
+            - '*'
+          -
+            - availableTransforms
+            - '*'
+          -
+            - showUnpermittedVolumes
+            - false
+          -
+            - showUnpermittedFiles
+            - false
+          -
+            - showHtmlButtonForNonAdmins
+            - ''
+          -
+            - configSelectionMode
+            - choose
+          -
+            - manualConfig
+            - ''
+          -
+            - defaultTransform
+            - ''
+          -
+            - purifierConfig
+            - ''
+          -
+            - purifyHtml
+            - 1
+          -
+            - columnType
+            - text
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\MissingField
+  3dd69867-1ce0-46fd-8140-bbc86d9aa214: # question
+    columnSuffix: hzxcjymu
+    contentColumnType: text
+    fieldGroup: null
+    handle: question
+    instructions: null
+    name: question
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: faq
+name: Faqs
+sortOrder: 1

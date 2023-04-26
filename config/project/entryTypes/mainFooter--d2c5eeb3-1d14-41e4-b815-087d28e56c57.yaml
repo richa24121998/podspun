@@ -1,0 +1,103 @@
+fieldLayouts:
+  004b42b5-d1be-4fa4-9751-c6b114f9b7ec:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 2bbc28e5-df47-4313-809f-6cbfafba102b
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 5f3753fc-9614-4d25-bc42-832e46f8bb74 # Logo Title 
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 408ff817-85c7-4793-a30e-43b1998d555e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 59beebdc-689e-4aff-b544-022dab802823 # Logo 
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7a4d54bc-ca3e-43e6-8990-0763dcf68c21
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 2cbd76b5-c5e4-4746-ae2b-2c54e2b869cb # Logo Content
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7f65495e-28ba-4eec-805f-0aa57034655b
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1dc3845b-7361-44a7-9782-0b9f45a6e0f3 # Copy right text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0f125f74-9055-46fd-9acb-78a77762bac8
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: afad8d52-7f82-4e1c-a9e5-515e9b3cde9b # Botton Menu 
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c31a7880-1a54-4206-b821-f62de3c5e55e
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 8879118a-9a31-4982-ba4f-a4288d85c5c2
+        userCondition: null
+handle: mainFooter
+hasTitleField: false
+name: 'Main footer '
+section: b5fe1ee7-f9cc-4a51-971e-0b9790230a11 # Main footer 
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

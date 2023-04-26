@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 2da62d4d-189f-4ab0-be13-f8549e4f5a35 # Page Data
+handle: forumsData
+instructions: null
+name: 'Forums Data'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_forumsdata}}'
+  maxBlocks: null
+  minBlocks: 1
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

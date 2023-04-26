@@ -1,0 +1,78 @@
+field: 134a995e-5e1d-4f29-8521-d79ccb2bbef2 # Forums Data
+fieldLayouts:
+  8ae96926-c889-40f9-b923-3807825f48fb:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: e94c3738-72b6-41c1-99d7-ad14260e547c # question
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2ad3479a-a3aa-43cf-9a49-73aebdf5e5eb
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: fa2ce712-3cab-4505-8b71-98bd1f6261b6 # answer
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 05d57c48-a286-4e54-92fe-ba7c6e7f59da
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: f8ec7208-4bb9-4a59-b98b-89a01c745aa3
+        userCondition: null
+fields:
+  e94c3738-72b6-41c1-99d7-ad14260e547c: # question
+    columnSuffix: vthwlxpf
+    contentColumnType: text
+    fieldGroup: null
+    handle: question
+    instructions: null
+    name: question
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  fa2ce712-3cab-4505-8b71-98bd1f6261b6: # answer
+    columnSuffix: ylqexksv
+    contentColumnType: text
+    fieldGroup: null
+    handle: answer
+    instructions: null
+    name: answer
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: forums
+name: Forums
+sortOrder: 1

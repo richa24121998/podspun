@@ -1,0 +1,19 @@
+columnSuffix: rmzusfti
+contentColumnType: text
+fieldGroup: ae7bc72f-3dca-4d37-a929-8f30436e4e19 # About us
+handle: amplifyheading
+instructions: null
+name: amplifyHeading
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

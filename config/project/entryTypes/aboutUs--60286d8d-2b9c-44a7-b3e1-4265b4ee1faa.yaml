@@ -1,0 +1,145 @@
+fieldLayouts:
+  eff3b981-5eec-4227-ac1a-15e3b2c2354a:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 4662a5fe-083d-4b65-8450-991945ad8b13
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 7e456582-37cd-46c8-b030-f88e07ce16f2 # Hero Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: bde28988-3579-4e9e-8f6b-aa07d1792617
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 0c2bea1b-db5c-48eb-87cf-00e105926ef0 # heroContent
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 3e49f1f7-b8e3-4d1b-ae4a-62f266629ea7
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 086591ac-9048-4977-bcc1-de8cb5b09068 # amplifyHeading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 390e473b-91e5-4644-9bf6-396c81d3877c
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: f021cc78-847e-439a-96d3-03faf5f1ed1e # amplifyContent
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c44a9b31-511a-4678-91c3-9ce8a472d1c0
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: e9ba6c12-f65a-4569-8453-fbeb4a80e782 # serviceHeading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: df440584-b2b3-4292-b9a2-4a5d178513df
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 14b623ea-88ca-4fa0-9d27-f20838a8340a # serviceContent
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: df4eeca6-223a-4fa9-b3da-e56edec67d50
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: da9dd62d-690e-4634-933e-0d5735cf9c4d
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: a51cd2f9-57cb-4400-991c-f63d35255d49 # headerBind
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ef7f76c8-2dae-41b6-85ea-a32a3aa19276
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 2706b568-ba09-4fb2-8b07-9e964aa1d835 # PageHeader
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4f6cdb0a-abfa-4630-b59f-0b0cbc95d40c
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'page setting'
+        uid: 7fa85a66-e40a-4277-9e70-fe293d39df8c
+        userCondition: null
+handle: aboutUs
+hasTitleField: false
+name: 'About us'
+section: 756bf952-b70d-4740-ad74-0af5a8e266b3 # About us
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

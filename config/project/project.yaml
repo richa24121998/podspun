@@ -1,0 +1,143 @@
+dateModified: 1682494196
+email:
+  fromEmail: richa.chirpn@gmail.com
+  fromName: podspun
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  logo:
+    hasUrls: true
+    name: logo
+    settings:
+      path: '@webroot/assets/images'
+    type: craft\fs\Local
+    url: '@web/assets/images'
+meta:
+  __names__:
+    0c2bea1b-db5c-48eb-87cf-00e105926ef0: heroContent # heroContent
+    1a49bbd8-7af8-4c61-8ca7-478b516bf0f4: answer # answer
+    1dc3845b-7361-44a7-9782-0b9f45a6e0f3: 'Copy right text' # Copy right text
+    01f1fd14-305a-47ae-b9fd-1565deb9e473: Faqs # Faqs
+    2b269fa3-bf1b-47ee-a70e-2b57c47ab009: 'Top Podcast Heading' # Top Podcast Heading
+    2cbd76b5-c5e4-4746-ae2b-2c54e2b869cb: 'Logo Content' # Logo Content
+    2d65204c-2a93-4598-84e6-b9f2191effd7: 'Header Visitor' # Header Visitor
+    2da62d4d-189f-4ab0-be13-f8549e4f5a35: 'Page Data' # Page Data
+    2e0b8284-24fb-448b-8fe1-b5edc28f3116: 'Help Center' # Help Center
+    3b99fd09-d711-43f6-93c8-42a9009f4801: 'Press Heading' # Press Heading
+    3dd69867-1ce0-46fd-8140-bbc86d9aa214: question # question
+    3f9aa034-453b-4509-9b92-109feaa233e7: podspun # podspun
+    4aa2029f-4122-47bd-a20b-2eb8615a1c7f: 'Get Started' # Get Started
+    5a641668-bcc9-4ed2-9bac-dfb91dc0d536: 'Menu Fields' # Menu Fields
+    5f3753fc-9614-4d25-bc42-832e46f8bb74: 'Logo Title ' # Logo Title 
+    6f33b31f-4055-41ab-a3ad-cfa9b6a5cae4: 'Page Slug' # Page Slug
+    7e8dbf9e-88b6-4c91-8683-7b12ff6d3416: menu # menu
+    7e456582-37cd-46c8-b030-f88e07ce16f2: 'Hero Heading' # Hero Heading
+    07fccf5a-480b-40e8-b349-4498417e3ba8: 'Header Visitor' # Header Visitor
+    8f4393bf-91ec-4abe-b0fc-36a1d44d335f: 'Link Text' # Link Text
+    9a07a8c6-231c-40f6-9286-735c614949f3: 'Social Menu' # Social Menu
+    09bc8a97-4e3e-41e5-8113-3c39b681e819: 'Link Text' # Link Text
+    9e6d4ea4-1e16-4299-b0f0-65391a2cd60c: content # content
+    9ef5a47b-c4bb-4b6d-b990-2dbfba2e5bc4: setting # setting
+    14b623ea-88ca-4fa0-9d27-f20838a8340a: serviceContent # serviceContent
+    22e4adcc-57e2-43ca-beb3-8c09fa9b917c: Navigation # Navigation
+    34a97260-1422-42d5-b591-c92ebfc7f9ac: 'Home Page ' # Home Page 
+    57e08976-97b0-4fb2-9080-da81cf721a19: 'Top Podcast Name' # Top Podcast Name
+    59beebdc-689e-4aff-b544-022dab802823: 'Logo ' # Logo 
+    81aeaa35-753e-4969-ac8e-248b2247af42: logo # logo
+    86ece0d3-2780-4385-8556-37278dde228c: 'Top Podcast Block' # Top Podcast Block
+    89cd74fb-445a-4a70-a73b-415e574e1a77: NavLinkss # NavLinkss
+    89fcde57-198b-4305-a932-760b0cfd21a0: 'Podcast Footer ' # Podcast Footer 
+    90a62549-8398-4d79-8582-e4306f51c076: content # content
+    90fb24c0-af9b-4312-94c0-568042f29471: 'Link Destination' # Link Destination
+    98f2aa56-9367-4052-beca-d3eb746ab7c6: 'Link Destination' # Link Destination
+    134a995e-5e1d-4f29-8521-d79ccb2bbef2: 'Forums Data' # Forums Data
+    213a9208-f091-4c79-a266-70af6e2f76c2: 'Link Text' # Link Text
+    337dbd92-f928-4cc4-baac-92f36d0910f1: 'Nav Link' # Nav Link
+    465f96b0-32c1-4ab2-a7d5-d99be3670e14: 'Help Center' # Help Center
+    557c6e19-a471-45f0-85dc-40f70684257b: Navigation # Navigation
+    593fba17-6156-402c-b1b3-7a2fff846ea3: 'Press Url' # Press Url
+    627a8b48-706c-4f3a-93fa-c31c10655412: 'Link Text' # Link Text
+    731ad015-da44-40d5-8e50-6ddd77d8179c: NavigationHeader # NavigationHeader
+    744ccb18-8b32-4779-a27d-e98832ca4ecb: 'Hero Section Content' # Hero Section Content
+    756bf952-b70d-4740-ad74-0af5a8e266b3: 'About us' # About us
+    825fb6c8-c607-494d-9fea-33f319e81380: 'Press Content' # Press Content
+    894afd1c-6b97-4b33-8619-8218c9a05d39: podspun # podspun
+    1668a606-4b76-4d8f-ae82-4a48de2de39e: 'Link Text' # Link Text
+    2706b568-ba09-4fb2-8b07-9e964aa1d835: PageHeader # PageHeader
+    3264da0a-60aa-4c7e-8163-614a294d8b5c: 'Header for visitor' # Header for visitor
+    5961bbac-eaec-4e26-986e-0cdf530679ae: 'Show to Visitor' # Show to Visitor
+    7042f5f7-f1ad-4e0f-8b6b-756167185b8e: 'Section Heading' # Section Heading
+    35681cda-4f21-4288-b02c-f491278e751c: 'Page Name' # Page Name
+    38358f99-f87a-4f20-afb1-aa28d23bb639: 'Press Url' # Press Url
+    58325a5f-d386-450d-abd6-c35ef4caa4a3: 'Link Destination' # Link Destination
+    60286d8d-2b9c-44a7-b3e1-4265b4ee1faa: 'About us' # About us
+    086591ac-9048-4977-bcc1-de8cb5b09068: amplifyHeading # amplifyHeading
+    483719f0-386a-4cdd-9e62-d6120266a850: 'Press Name' # Press Name
+    07030979-fa8d-4eb8-8fee-087fdadc2f97: 'Top Podcast Url' # Top Podcast Url
+    9617742a-c84e-4de6-a2ad-105e13fd2217: 'Page Name' # Page Name
+    11692320-3b3d-4134-83ef-8f71d9493cf8: 'HomePage Group' # HomePage Group
+    a1e5754f-6540-44cf-82f7-44347a582f29: Logo # Logo
+    a7ec7afd-de0b-4d43-b4dc-21b23eb6fcc7: 'Top Podcast Content' # Top Podcast Content
+    a51cd2f9-57cb-4400-991c-f63d35255d49: headerBind # headerBind
+    a446726b-85cb-4499-8f96-fd14c491daf7: Common # Common
+    aaa67f30-51c2-4d66-a84b-0cce77cd3a4b: question # question
+    ae7bc72f-3dca-4d37-a929-8f30436e4e19: 'About us' # About us
+    afad8d52-7f82-4e1c-a9e5-515e9b3cde9b: 'Botton Menu ' # Botton Menu 
+    b0e73a9b-5f88-4b6a-b2af-ea73cb90529e: Benefits # Benefits
+    b5fe1ee7-f9cc-4a51-971e-0b9790230a11: 'Main footer ' # Main footer 
+    b15b44d8-44ba-4700-b15a-441b2618bdd8: menu # menu
+    b70a767d-9923-46aa-81ef-f7f5a55419f4: 'Podcast Footer ' # Podcast Footer 
+    b2596ed3-94ea-4f38-86d7-45f85402f44b: question # question
+    b6567abc-1c77-4a9b-a1b5-6e148ad7c42c: setting # setting
+    c63687a9-fe73-4fc9-9453-6cb244c861a1: answer # answer
+    cbc44b0f-6526-462f-ac84-129a825f0845: 'Get Started Group' # Get Started Group
+    ccc08331-4bc8-462c-b58d-882376a5bcd9: 'FAQ Data' # FAQ Data
+    d2c5eeb3-1d14-41e4-b815-087d28e56c57: 'Main footer ' # Main footer 
+    d3b5ae3d-bf29-43c2-8965-07b1a7768c07: Menu # Menu
+    d3b8f27b-7a61-4b34-b31b-1b339b9534b1: 'Link Text' # Link Text
+    d8ccbeb2-aa09-42c4-9b1a-4933cb19c978: 'Benefit Section Heading' # Benefit Section Heading
+    d6063cc5-85fc-4b91-bc6d-3045b244e10d: 'Header for visitor' # Header for visitor
+    dac8940d-c447-4542-a3c5-74c38acc6d75: 'Press Block' # Press Block
+    db40291e-bfe3-4019-bb74-8332039483a7: 'Home Page ' # Home Page 
+    e001bac8-0804-4b18-92f2-8b53c11d2258: 'Page Slug' # Page Slug
+    e0309b34-e4cf-4d9c-a347-e22444a5c199: NavLinkss # NavLinkss
+    e5d4b7aa-12c5-40be-bead-ae2d6bad06cb: 'Top Podcast Name' # Top Podcast Name
+    e9ba6c12-f65a-4569-8453-fbeb4a80e782: serviceHeading # serviceHeading
+    e94c3738-72b6-41c1-99d7-ad14260e547c: question # question
+    e859d248-f2a2-422e-9105-9c543f160315: Title # Title
+    e3730288-d030-40a3-a867-8de1a8449e89: 'Press Name' # Press Name
+    ed60bce0-435d-4cb1-b429-573bcf3358cb: 'Top Podcast Url' # Top Podcast Url
+    ed198be6-2c05-4cea-9548-5a55a9f770e5: 'Link Destination' # Link Destination
+    ee60721b-003d-470a-a29e-f8e83a660b2c: 'Public Schema' # Public Schema
+    eeb049f3-735a-4064-bbbe-9a128e9a0b3d: Forums # Forums
+    f021cc78-847e-439a-96d3-03faf5f1ed1e: amplifyContent # amplifyContent
+    f9d182f2-6c0b-4047-9502-01fe9a39d18d: 'Menu Group' # Menu Group
+    f5717b79-9503-494d-9a13-50ef48c38be3: 'Content block' # Content block
+    fa2ce712-3cab-4505-8b71-98bd1f6261b6: answer # answer
+    fab65d24-374e-4cc2-bca1-941c1b44f694: answer # answer
+    fda6c258-4531-43f8-8d24-38bb6d756d88: 'Navigation Fields' # Navigation Fields
+    ff8d9e2c-9938-44fa-8182-f7c00a02aca8: 'Get Started' # Get Started
+plugins:
+  feed-me:
+    edition: standard
+    enabled: true
+    schemaVersion: 5.1.0.0
+  field-manager:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: pro
+  live: true
+  name: podspun
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

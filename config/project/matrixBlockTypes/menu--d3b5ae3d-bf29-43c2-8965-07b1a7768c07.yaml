@@ -1,0 +1,82 @@
+field: 5a641668-bcc9-4ed2-9bac-dfb91dc0d536 # Menu Fields
+fieldLayouts:
+  c63f39ee-8d0d-4852-b812-84ba2edf717d:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 35681cda-4f21-4288-b02c-f491278e751c # Page Name
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 8f9acb03-a38f-4db7-a596-1b508eff6389
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: e001bac8-0804-4b18-92f2-8b53c11d2258 # Page Slug
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 6fca9993-d27d-4462-aa5e-b262f43940fd
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e1f79720-ec19-4b3c-a273-62657c6df9db
+        userCondition: null
+fields:
+  35681cda-4f21-4288-b02c-f491278e751c: # Page Name
+    columnSuffix: vdthxhuc
+    contentColumnType: text
+    fieldGroup: null
+    handle: pageName
+    instructions: null
+    name: 'Page Name'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: 'Ex : About Us, FAQ, Services'
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  e001bac8-0804-4b18-92f2-8b53c11d2258: # Page Slug
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: pageSlug
+    instructions: null
+    name: 'Page Slug'
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      branchLimit: null
+      localizeRelations: false
+      maintainHierarchy: false
+      maxRelations: null
+      minRelations: null
+      selectionLabel: null
+      showSiteMenu: true
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Entries
+handle: menu
+name: Menu
+sortOrder: 1

@@ -1,0 +1,55 @@
+fieldLayouts:
+  a8ae6a0d-5d47-470c-bc8b-912c8a35dc3c:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: ad0a91d3-d48e-4ad5-bbba-b7227efba577
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 5a641668-bcc9-4ed2-9bac-dfb91dc0d536 # Menu Fields
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 40b668fc-2bdd-40f6-b388-b4b445cc47ea
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 14df20ca-89a0-4e37-b32a-407ad7389fda
+        userCondition: null
+handle: headerVisitor
+hasTitleField: false
+name: 'Header Visitor'
+section: 2d65204c-2a93-4598-84e6-b9f2191effd7 # Header Visitor
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
