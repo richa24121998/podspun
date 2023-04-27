@@ -1,0 +1,27 @@
+columnSuffix: qauocsch
+contentColumnType: text
+fieldGroup: f9d182f2-6c0b-4047-9502-01fe9a39d18d # Menu Group
+handle: contectUsMoreQuestion
+instructions: null
+name: 'Contect us More Question'
+searchable: false
+settings:
+  availableTransforms: ''
+  availableVolumes: '*'
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  manualConfig: ''
+  purifierConfig: null
+  purifyHtml: true
+  redactorConfig: null
+  removeEmptyTags: false
+  removeInlineStyles: false
+  removeNbsp: false
+  showHtmlButtonForNonAdmins: false
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field

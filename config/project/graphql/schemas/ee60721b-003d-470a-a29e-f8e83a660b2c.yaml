@@ -1,2 +1,53 @@
 isPublic: true
 name: 'Public Schema'
+scope:
+  - 'sites.894afd1c-6b97-4b33-8619-8218c9a05d39:read' # podspun
+  - 'elements.drafts:read'
+  - 'elements.revisions:read'
+  - 'elements.inactive:read'
+  - 'sections.756bf952-b70d-4740-ad74-0af5a8e266b3:read' # About us
+  - 'entrytypes.60286d8d-2b9c-44a7-b3e1-4265b4ee1faa:read' # About us
+  - 'sections.4aa2029f-4122-47bd-a20b-2eb8615a1c7f:read' # Get Started
+  - 'entrytypes.ff8d9e2c-9938-44fa-8182-f7c00a02aca8:read' # Get Started
+  - 'sections.3264da0a-60aa-4c7e-8163-614a294d8b5c:read' # Header for visitor
+  - 'entrytypes.d6063cc5-85fc-4b91-bc6d-3045b244e10d:read' # Header for visitor
+  - 'sections.2d65204c-2a93-4598-84e6-b9f2191effd7:read' # Header Visitor
+  - 'entrytypes.07fccf5a-480b-40e8-b349-4498417e3ba8:read' # Header Visitor
+  - 'sections.465f96b0-32c1-4ab2-a7d5-d99be3670e14:read' # Help Center
+  - 'entrytypes.2e0b8284-24fb-448b-8fe1-b5edc28f3116:read' # Help Center
+  - 'sections.db40291e-bfe3-4019-bb74-8332039483a7:read' # Home Page 
+  - 'entrytypes.34a97260-1422-42d5-b591-c92ebfc7f9ac:read' # Home Page 
+  - 'sections.b5fe1ee7-f9cc-4a51-971e-0b9790230a11:read' # Main footer 
+  - 'entrytypes.d2c5eeb3-1d14-41e4-b815-087d28e56c57:read' # Main footer 
+  - 'sections.22e4adcc-57e2-43ca-beb3-8c09fa9b917c:read' # Navigation
+  - 'entrytypes.557c6e19-a471-45f0-85dc-40f70684257b:read' # Navigation
+  - 'sections.b70a767d-9923-46aa-81ef-f7f5a55419f4:read' # Podcast Footer 
+  - 'entrytypes.89fcde57-198b-4305-a932-760b0cfd21a0:read' # Podcast Footer 
+  - 'sections.9ef5a47b-c4bb-4b6d-b990-2dbfba2e5bc4:read' # setting
+  - 'entrytypes.b6567abc-1c77-4a9b-a1b5-6e148ad7c42c:read' # setting
+  - 'volumes.81aeaa35-753e-4969-ac8e-248b2247af42:read' # logo
+  - 'usergroups.everyone:read'
+  - 'sections.756bf952-b70d-4740-ad74-0af5a8e266b3:edit' # About us
+  - 'entrytypes.60286d8d-2b9c-44a7-b3e1-4265b4ee1faa:save' # About us
+  - 'sections.4aa2029f-4122-47bd-a20b-2eb8615a1c7f:edit' # Get Started
+  - 'entrytypes.ff8d9e2c-9938-44fa-8182-f7c00a02aca8:save' # Get Started
+  - 'sections.3264da0a-60aa-4c7e-8163-614a294d8b5c:edit' # Header for visitor
+  - 'entrytypes.d6063cc5-85fc-4b91-bc6d-3045b244e10d:save' # Header for visitor
+  - 'sections.2d65204c-2a93-4598-84e6-b9f2191effd7:edit' # Header Visitor
+  - 'entrytypes.07fccf5a-480b-40e8-b349-4498417e3ba8:save' # Header Visitor
+  - 'sections.465f96b0-32c1-4ab2-a7d5-d99be3670e14:edit' # Help Center
+  - 'entrytypes.2e0b8284-24fb-448b-8fe1-b5edc28f3116:save' # Help Center
+  - 'sections.db40291e-bfe3-4019-bb74-8332039483a7:edit' # Home Page 
+  - 'entrytypes.34a97260-1422-42d5-b591-c92ebfc7f9ac:save' # Home Page 
+  - 'sections.b5fe1ee7-f9cc-4a51-971e-0b9790230a11:edit' # Main footer 
+  - 'entrytypes.d2c5eeb3-1d14-41e4-b815-087d28e56c57:save' # Main footer 
+  - 'sections.22e4adcc-57e2-43ca-beb3-8c09fa9b917c:edit' # Navigation
+  - 'entrytypes.557c6e19-a471-45f0-85dc-40f70684257b:save' # Navigation
+  - 'sections.b70a767d-9923-46aa-81ef-f7f5a55419f4:edit' # Podcast Footer 
+  - 'entrytypes.89fcde57-198b-4305-a932-760b0cfd21a0:save' # Podcast Footer 
+  - 'sections.9ef5a47b-c4bb-4b6d-b990-2dbfba2e5bc4:edit' # setting
+  - 'entrytypes.b6567abc-1c77-4a9b-a1b5-6e148ad7c42c:save' # setting
+  - 'volumes.81aeaa35-753e-4969-ac8e-248b2247af42:edit' # logo
+  - 'volumes.81aeaa35-753e-4969-ac8e-248b2247af42:create' # logo
+  - 'volumes.81aeaa35-753e-4969-ac8e-248b2247af42:save' # logo
+  - 'volumes.81aeaa35-753e-4969-ac8e-248b2247af42:delete' # logo

@@ -32,13 +32,13 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: 5f3753fc-9614-4d25-bc42-832e46f8bb74 # Logo Title 
+            fieldUid: 275bf865-4145-4852-8909-70143903f8e0 # leftside menu
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 408ff817-85c7-4793-a30e-43b1998d555e
+            uid: 5851b0fd-023c-40b9-9b2e-c0cfaa74be50
             userCondition: null
             warning: null
             width: 100
@@ -56,13 +56,25 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
-            fieldUid: 2cbd76b5-c5e4-4746-ae2b-2c54e2b869cb # Logo Content
+            fieldUid: b4b1036b-4feb-417a-bdb5-eb5f7dcae551 # Contect us More Question
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 7f65495e-28ba-4eec-805f-0aa57034655b
+            uid: 29abadd3-6425-4b0b-bec4-1c102bf6c837
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 77aa3cb7-6159-4d08-bf07-9aff8914d138 # Instagram Twitter field
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c9e52d35-69e9-4c69-88bd-20c6283fe129
             userCondition: null
             warning: null
             width: 100

@@ -1,4 +1,4 @@
-dateModified: 1682494196
+dateModified: 1682587715
 email:
   fromEmail: richa.chirpn@gmail.com
   fromName: podspun
@@ -7,6 +7,13 @@ fs:
   logo:
     hasUrls: true
     name: logo
+    settings:
+      path: '@webroot/assets/images'
+    type: craft\fs\Local
+    url: '@web/assets/images'
+  logoPodspun:
+    hasUrls: true
+    name: 'logo Podspun'
     settings:
       path: '@webroot/assets/images'
     type: craft\fs\Local
@@ -28,6 +35,7 @@ meta:
     4aa2029f-4122-47bd-a20b-2eb8615a1c7f: 'Get Started' # Get Started
     5a641668-bcc9-4ed2-9bac-dfb91dc0d536: 'Menu Fields' # Menu Fields
     5f3753fc-9614-4d25-bc42-832e46f8bb74: 'Logo Title ' # Logo Title 
+    006d2f97-97ec-4339-8a82-013cc1e4cb13: 'Link Text' # Link Text
     6f33b31f-4055-41ab-a3ad-cfa9b6a5cae4: 'Page Slug' # Page Slug
     7e8dbf9e-88b6-4c91-8683-7b12ff6d3416: menu # menu
     7e456582-37cd-46c8-b030-f88e07ce16f2: 'Hero Heading' # Hero Heading
@@ -42,6 +50,7 @@ meta:
     34a97260-1422-42d5-b591-c92ebfc7f9ac: 'Home Page ' # Home Page 
     57e08976-97b0-4fb2-9080-da81cf721a19: 'Top Podcast Name' # Top Podcast Name
     59beebdc-689e-4aff-b544-022dab802823: 'Logo ' # Logo 
+    77aa3cb7-6159-4d08-bf07-9aff8914d138: 'Instagram Twitter field' # Instagram Twitter field
     81aeaa35-753e-4969-ac8e-248b2247af42: logo # logo
     86ece0d3-2780-4385-8556-37278dde228c: 'Top Podcast Block' # Top Podcast Block
     89cd74fb-445a-4a70-a73b-415e574e1a77: NavLinkss # NavLinkss
@@ -51,12 +60,15 @@ meta:
     98f2aa56-9367-4052-beca-d3eb746ab7c6: 'Link Destination' # Link Destination
     134a995e-5e1d-4f29-8521-d79ccb2bbef2: 'Forums Data' # Forums Data
     213a9208-f091-4c79-a266-70af6e2f76c2: 'Link Text' # Link Text
+    275bf865-4145-4852-8909-70143903f8e0: 'leftside menu' # leftside menu
     337dbd92-f928-4cc4-baac-92f36d0910f1: 'Nav Link' # Nav Link
+    432df762-8773-4485-8345-2ee1e1c62d04: 'Link Destination' # Link Destination
     465f96b0-32c1-4ab2-a7d5-d99be3670e14: 'Help Center' # Help Center
     557c6e19-a471-45f0-85dc-40f70684257b: Navigation # Navigation
     593fba17-6156-402c-b1b3-7a2fff846ea3: 'Press Url' # Press Url
     627a8b48-706c-4f3a-93fa-c31c10655412: 'Link Text' # Link Text
     731ad015-da44-40d5-8e50-6ddd77d8179c: NavigationHeader # NavigationHeader
+    731edb6c-ba56-4522-8780-bb1357f63a9e: Content # Content
     744ccb18-8b32-4779-a27d-e98832ca4ecb: 'Hero Section Content' # Hero Section Content
     756bf952-b70d-4740-ad74-0af5a8e266b3: 'About us' # About us
     825fb6c8-c607-494d-9fea-33f319e81380: 'Press Content' # Press Content
@@ -83,6 +95,7 @@ meta:
     ae7bc72f-3dca-4d37-a929-8f30436e4e19: 'About us' # About us
     afad8d52-7f82-4e1c-a9e5-515e9b3cde9b: 'Botton Menu ' # Botton Menu 
     b0e73a9b-5f88-4b6a-b2af-ea73cb90529e: Benefits # Benefits
+    b4b1036b-4feb-417a-bdb5-eb5f7dcae551: 'Contect us More Question' # Contect us More Question
     b5fe1ee7-f9cc-4a51-971e-0b9790230a11: 'Main footer ' # Main footer 
     b15b44d8-44ba-4700-b15a-441b2618bdd8: menu # menu
     b70a767d-9923-46aa-81ef-f7f5a55419f4: 'Podcast Footer ' # Podcast Footer 
@@ -104,6 +117,7 @@ meta:
     e9ba6c12-f65a-4569-8453-fbeb4a80e782: serviceHeading # serviceHeading
     e94c3738-72b6-41c1-99d7-ad14260e547c: question # question
     e859d248-f2a2-422e-9105-9c543f160315: Title # Title
+    e2578598-10e9-4b0c-99c2-2a601a234f22: 'logo podspun ' # logo podspun 
     e3730288-d030-40a3-a867-8de1a8449e89: 'Press Name' # Press Name
     ed60bce0-435d-4cb1-b429-573bcf3358cb: 'Top Podcast Url' # Top Podcast Url
     ed198be6-2c05-4cea-9548-5a55a9f770e5: 'Link Destination' # Link Destination
